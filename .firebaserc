@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test3-b3c73": {
+      "hosting": {
+        "angular-fire-demo": [
+          "test3-b3c73"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test3-b3c73"
+  }
+}
